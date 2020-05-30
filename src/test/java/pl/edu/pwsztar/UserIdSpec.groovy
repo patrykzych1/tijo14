@@ -4,7 +4,7 @@ import spock.lang.Specification
 
 class UserIdSpec extends Specification {
 
-    def idList = ['94012733108', '02041458213', '1010101', 'abcdefabcde', '123bnm']
+    def idList = ['94012731083', '02241458219', '1010101', 'abcdefabcde', '123bnm']
 
     def "should check correct size"() {
         given:
